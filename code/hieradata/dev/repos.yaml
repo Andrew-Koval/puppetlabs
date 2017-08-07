@@ -1,0 +1,9 @@
+---
+svn_repos:
+  repo1:
+    svn_repo: repo1
+  repo2:
+    svn_repo: repo2
+  repo3:
+    svn_repo: repo3
+

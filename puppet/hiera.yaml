@@ -1,0 +1,12 @@
+---
+:backends:
+  - yaml
+:hierarchy:
+  - "dev/main.yaml"
+  - "qa/main.yaml"
+  - "dev/users.yaml"
+  - "qa/users.yaml"
+  - "dev/repos.yaml"
+  - "qa/repos.yaml"
+:yaml:
+  :datadir: "/etc/puppetlabs/code/hieradata"

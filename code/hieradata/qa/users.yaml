@@ -1,0 +1,11 @@
+---
+svn_users:
+  user1:
+    svn_user: user1
+    user_password: $apr1$ATIZlXfX$DiY11iPa4MSf2n0gWRp7M1
+  user2:
+    svn_user: user2
+    user_password: $apr1$pHDC3jHJ$ljNIfgxSYvbMEGY5LbVDl/
+  user3:
+    svn_user: user3
+    user_password: $apr1$gQkqWhFP$49YjuaLAGZq/kLYIqLfOz/

@@ -1,0 +1,5 @@
+---
+httpd::listen: '8080'
+subversion::svn_admin::svn_admin: 'akova'
+subversion::svn_admin::admin_password: '$apr1$O1pbC5m.$B6yi5AROMznx8G4Ii8znY.'
+
