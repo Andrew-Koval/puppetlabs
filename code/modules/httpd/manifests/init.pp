@@ -57,7 +57,7 @@ class httpd (
   $service_restart      = '/sbin/service httpd reload',
 ) {
   package { 'httpd':
-    ensure => $version,
+    ensure => $httpd_version,
   }
 
   file { '/etc/httpd/conf/httpd.conf':
